@@ -555,7 +555,9 @@ h1{
                 
                  @media (min-width: 550px) {
                      display:inline-block;
-                }
+                     margin-bottom: 0;
+                     padding-right: 10px;
+                 }
               }
             }
         }

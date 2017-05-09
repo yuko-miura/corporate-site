@@ -297,7 +297,9 @@ h1 {
       margin-bottom: 3px; }
       @media (min-width: 550px) {
         #contents #main .news_li li span {
-          display: inline-block; } }
+          display: inline-block;
+          margin-bottom: 0;
+          padding-right: 10px; } }
   @media (max-width: 550px) {
     #contents #sidebar .pc_sidemenu {
       display: none; } }
